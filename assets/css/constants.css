@@ -1,0 +1,25 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-red: #E90216;
+  --theme-color-dark-red:#7E010C;
+
+  --theme-color-sand:#E4DEBE;
+  --theme-color-egg-white:#F5F4EB;
+
+  --theme-color-black: #171717;
+
+  --theme-color-off-white:#FBFBF9;
+  --theme-color-dark-gray: #666666;
+  --theme-color-light-gray: #a6a6a6;
+  
+  --theme-font-family-heading: "doublebass", sans-serif;
+  --theme-font-family-subheading: "chinchilla", sans-serif;
+  --theme-font-family-body: "seismic-latin-variable", sans-serif;
+
+
+  --theme-transition: all 0.3s ease-in-out;
+}
